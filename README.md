@@ -212,12 +212,6 @@ MIN_PEER_GROUP_SIZE =  2         # Min buses in a group for valid comparison
 
 ## 👤 Author
 
-**[YOUR NAME]**  
+**[Harshit Choubey]**  
 Data & Growth Intern Applicant  
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/[YOUR GITHUB USERNAME])
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
